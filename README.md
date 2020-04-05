@@ -10,4 +10,4 @@
 * [Abierto/cerrado](https://github.com/GeeksHubsAcademy/2020-SOLID-OpenClosed)
 * [Sustitución de Liskov](https://github.com/GeeksHubsAcademy/2020-SOLID-Liskov)
 * [Segregación de Interfaces](https://github.com/GeeksHubsAcademy/2020-SOLID-InterfaceSegregation)
-* [Inversión de DependenciasI](https://github.com/GeeksHubsAcademy/2020-SOLID-DependencyInversion)
+* [Inversión de Dependencias](https://github.com/GeeksHubsAcademy/2020-SOLID-DependencyInversion)
